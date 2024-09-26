@@ -1,0 +1,52 @@
+{
+  "cities": [
+    {
+      "id": "183c",
+      "cityName": "Hyderabad",
+      "country": "India",
+      "emoji": "🇮🇳",
+      "date": "2024-08-19T11:25:17.866Z",
+      "notes": "home town",
+      "position": {
+        "lat": "17.326382250035145",
+        "lng": "78.48644835223865"
+      }
+    },
+    {
+      "id": "6957",
+      "cityName": "Logoysk",
+      "country": "Belarus",
+      "emoji": "🇧🇾",
+      "date": "2024-09-21T08:53:15.465Z",
+      "notes": "",
+      "position": {
+        "lat": "54.41430836578331",
+        "lng": "27.861328125"
+      }
+    },
+    {
+      "id": "b6ae",
+      "cityName": "Perdiguera",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2024-09-26T10:54:07.437Z",
+      "notes": "good",
+      "position": {
+        "lat": "41.719849770869985",
+        "lng": "-0.6811523437500001"
+      }
+    },
+    {
+      "id": "23a9",
+      "cityName": "Shikaripura",
+      "country": "India",
+      "emoji": "🇮🇳",
+      "date": "2024-09-26T10:54:30.638Z",
+      "notes": "good",
+      "position": {
+        "lat": "14.196138490140235",
+        "lng": "75.45410156250001"
+      }
+    }
+  ]
+}
