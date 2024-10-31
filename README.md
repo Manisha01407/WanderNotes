@@ -1,6 +1,6 @@
-# WanderNotes
+### WanderNotes
 
-WanderNotes - Travel Note-Taking Application\
+WanderNotes - Travel Note-Taking Application
 WorldWise is an application that allows users to document their travel history and notes. Users can view, add, and modify their travel experiences, with data being stored in a cities.json file that serves as a mock API.
 
 ### Features
